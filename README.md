@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/profile.jpg" alt="Wafi's profile picture" width="150"/>
+  <img src="muntasyiralwafi/IMG_8638 2.jpeg" alt="Wafi's profile picture" width="150"/>
   <h1>Muntasyir Al Wafi (WAFI)</h1>
 
 <div align="center">
