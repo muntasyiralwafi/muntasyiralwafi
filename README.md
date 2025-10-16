@@ -4,16 +4,19 @@
 
 <div align="center">
   <a href="mailto:malwafi@torontomu.ca">Email</a> |
-  <a href="https://scholar.google.com/">Google Scholar</a> |
+  <a href="https://scholar.google.ca/citations?hl=en&authuser=3&user=W3LIepAAAAAJ">Google Scholar</a> |
   <a href="https://www.linkedin.com/in/muntasyiralwafi/">LinkedIn</a> |
   <a href="https://bsky.app/profile/malwafi.bsky.social">Bluesky</a>
 </div>
+
+
 
   <p>
     <a href="#me"> ABOUT ME</a> •
     <a href="#papers">PAPERS</a> •
     <a href="#works">WORKS</a> •
-    <a href="#blog">BLOG</a>
+    <a href="#blog">BLOG</a> •
+   <a href="https://drive.google.com/file/d/1lF8YWwBeqUZ81ObHTe8e43DE_B90hMiy/view?usp=sharing" target="_blank">CV</a>
   </p>
 </div>
 
@@ -21,11 +24,11 @@
 
 ## <a name="me"></a>ABOUT ME
 
-I am a PhD student in Building Science at Toronto Metropolitan University, supervised by Dr. Jenn McArthur. My research focuses on building retrofit feasibility assessment using BIM, life cycle analysis, and cost-time-carbon modeling for sustainable building portfolios. I am passionate about developing decision-support frameworks to prioritize retrofit measures, integrate social and environmental co-benefits, and guide urban-scale retrofit planning.
+I am a PhD Student in **Building Science** at **Toronto Metropolitan University**, supervised by [**Dr. Jenn McArthur**](https://www.torontomu.ca/architectural-science/people/faculty/jennifer-mcarthur/). My research focuses on **retrofit feasibility** studying how to make large-scale building retrofits faster, cheaper, and lower in carbon. I develop models to estimate the **cost, time, and life-cycle carbon** of retrofit projects.  
 
-- **Location:** Toronto, Canada
-- **Email:** [malwafi@torontomu.ca](mailto:malwafi@torontomu.ca)
-- **Website:** [muntasyiralwafi.github.io](https://muntasyiralwafi.github.io/)
+My work combines **Building Information Modeling (BIM)**, **Life Cycle Assessment**, and **Machine Learning** to help building owners and cities plan efficient retrofit strategies. As part of [**DECODER project**](https://www.concordia.ca/research/volt-age/initiatives/impact-programs/digitalization-for-energy-efficiency-through-commissioning-and-decarbonization-retrofits.html), I build tools to compare retrofit options across many buildings and identify the most effective solutions for reducing emissions. My Aim to support data-driven retrofit planning that helps cities cut emissions, extend building life, and improve energy performance at scale.
+
+Before joining TMU, I completed an **MSc in Architecture** at *Bahcesehir University*, where my thesis *“From Crisis to Resilience: Affordable Housing in Toronto”* examined the link between housing resilience and affordability. I also hold a **BSc in Urban and Regional Planning** from *Yildiz Technical University*. My previous work includes research and project experience with **UN-Habitat**, **Impact Circles**, and **Urban Minds**
 
 **Education:**
 - PhD in Building Science, Toronto Metropolitan University, Canada (2025 – Present)
@@ -82,5 +85,6 @@ I am a PhD student in Building Science at Toronto Metropolitan University, super
 ---
 
 <p align="center">
-  <i>Last updated: October 2025</i>
+  <i> Made by Muntasyir Al Wafi </i> |
+  <i>Last updated: October 2025 © </i>
 </p>
