@@ -46,7 +46,7 @@ Before joining TMU, I completed an **MSc in Architecture** at *Bahcesehir Univer
 **Conference Papers**
 - **Al Wafi, M.**, 2024. Advancing Sustainable Architecture: Sustainability through Green BIM Integration. *Innovate4Cities Conference (I4C24)*, Montreal.
 - **Al Wafi, M.**, & Kültür, S., 2024. How High-Rise Building Facades Communicate in the Urban Landscape: A Case Study of Toronto. *DAKAM’s Spring 2024 Conferences Proceedings*, Istanbul.
-- **Al Wafi, M.**, Ece, K., & Serengul, S., 2024. Strategies for Small Public Space to Reclaim Urban Green. *Game Changer? Planning for Just and Sustainable Urban Regions*, Paris.
+- **Al Wafi, M.**, Ece, K., & Serengul, S., 2024. Strategies for Small Public Space to Reclaim Urban Green. *Game Changer? Planning for Just and Sustainable Urban Regions*. AESOP 2024, Paris.
 
 **Reports**
 - Pinheiro, M.S. de M., et al., **Al Wafi, M.**, 2025. Spatial Inclusion in Cities. Regional Trends Report. United Nations Human Settlements Programme UN-Habitat. First published July 2025, Nairobi.
