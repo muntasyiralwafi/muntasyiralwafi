@@ -69,8 +69,8 @@ Before joining TMU, I completed an **MSc in Architecture** at *Bahcesehir Univer
 - Student Urban Planner, Kadikoy Municipality, Turkey (6/2019–9/2019)
 
 **Recognitions**
-- Toronto Metropolitan University PhD Funding Award (CAD $35,000 research stipend and $16,000 scholarship/year)
-- Bahcesehir University Entrance Scholarship (USD $3,000)
+- Toronto Metropolitan University PhD Funding Award 
+- Bahcesehir University Entrance Scholarship
 - Turkish Scholarship (full ride scholarship)
 
 **Service & Affiliations**
