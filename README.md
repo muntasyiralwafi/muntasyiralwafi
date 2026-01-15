@@ -24,9 +24,9 @@
 
 ## <a name="me"></a>ABOUT ME
 
-I am a PhD Student in **Building Science** at **Toronto Metropolitan University**, supervised by [**Dr. Jenn McArthur**](https://www.torontomu.ca/architectural-science/people/faculty/jennifer-mcarthur/). My research focuses on **retrofit feasibility** studying how to make large-scale building retrofits faster, cheaper, and lower in carbon. I develop models to estimate the **cost, time, and life-cycle carbon** of retrofit projects.  
+I am a PhD Student in **Building Science** at **Toronto Metropolitan University**, supervised by [**Dr. Jenn McArthur**](https://www.torontomu.ca/architectural-science/people/faculty/jennifer-mcarthur/). My research focuses on **retrofit feasibility** studying how to make large-scale building retrofits faster, cheaper, and lower in carbon. I study how operational data supports **faster, lower-cost, lower-carbon** retrofit planning across large building portfolios.  
 
-My work combines **Building Information Modeling (BIM)**, **Life Cycle Assessment**, and **Machine Learning** to help building owners and cities plan efficient retrofit strategies. As part of [**DECODER project**](https://www.concordia.ca/research/volt-age/initiatives/impact-programs/digitalization-for-energy-efficiency-through-commissioning-and-decarbonization-retrofits.html), I build tools to compare retrofit options across many buildings and identify the most effective solutions for reducing emissions. My Aim to support data-driven retrofit planning that helps cities cut emissions, extend building life, and improve energy performance at scale.
+I develop models to estimate disaggregated energy use, envelope thermal performance, and retrofit potential without manual audits or detailed simulations. As part of [**DECODER project**](https://www.concordia.ca/research/volt-age/initiatives/impact-programs/digitalization-for-energy-efficiency-through-commissioning-and-decarbonization-retrofits.html), I build decision-support tools to screen retrofit pathways at scale. My goal is to support data-driven planning for building decarbonization across cities and large portfolios.
 
 Before joining TMU, I completed an **MSc in Architecture** at *Bahcesehir University*, where my thesis *“From Crisis to Resilience: Affordable Housing in Toronto”* examined the link between housing resilience and affordability. I also hold a **BSc in Urban and Regional Planning** from *Yildiz Technical University*. My previous work includes research and project experience with **UN-Habitat**, **Impact Circles**, and **Urban Minds**
 
@@ -41,16 +41,19 @@ Before joining TMU, I completed an **MSc in Architecture** at *Bahcesehir Univer
 ## <a name="papers"></a>PAPERS
 
 **Journal Papers**
-- Al Wafi, M., Gulmez, N.U., Building Resilient: A Framework for Evaluating Resilience in Toronto's Affordable Housing. *Journal of Housing and the Built Environment* (submitted)
-- Hendawy, M., Fontes, C. & Al Wafi, M. Bridging urban AI and responsible AI in the African context: A landscape of local initiatives and tools. *Journal of Technology in Society* (submitted)
+- add here
 
 **Conference Papers**
-- Al Wafi, M., 2024. Advancing Sustainable Architecture: Sustainability through Green BIM Integration. *Innovate4Cities Conference (I4C24)*, Montreal.
-- Al Wafi, M., & Kültür, S., 2024. How High-Rise Building Facades Communicate in the Urban Landscape: A Case Study of Toronto. *DAKAM’s Spring 2024 Conferences Proceedings*, Istanbul.
-- Al Wafi, M., Ece, K., & Serengul, S., 2024. Strategies for Small Public Space to Reclaim Urban Green. *Game Changer? Planning for Just and Sustainable Urban Regions*, Paris.
+- **Al Wafi, M.**, 2024. Advancing Sustainable Architecture: Sustainability through Green BIM Integration. *Innovate4Cities Conference (I4C24)*, Montreal.
+- **Al Wafi, M.**, & Kültür, S., 2024. How High-Rise Building Facades Communicate in the Urban Landscape: A Case Study of Toronto. *DAKAM’s Spring 2024 Conferences Proceedings*, Istanbul.
+- **Al Wafi, M.**, Ece, K., & Serengul, S., 2024. Strategies for Small Public Space to Reclaim Urban Green. *Game Changer? Planning for Just and Sustainable Urban Regions*, Paris.
 
 **Reports**
-- Al Wafi, M.
+- Pinheiro, M.S. de M., et al., **Al Wafi, M.**, 2025. Spatial Inclusion in Cities. Regional Trends Report. United Nations Human Settlements Programme UN-Habitat. First published July 2025, Nairobi.
+
+**Submitted Papers**
+- **Al Wafi**, M., Gulmez, N.U., Building Resilient: A Framework for Evaluating Resilience in Toronto's Affordable Housing. *Journal of Housing and the Built Environment* (submitted)
+- Hendawy, M., Fontes, C. & **Al Wafi, M.** Bridging urban AI and responsible AI in the African context: A landscape of local initiatives and tools. *Journal of Technology in Society* (submitted)
 
 ---
 
